@@ -1,0 +1,58 @@
+{
+    "base_of_satellite": [
+      {
+        "value": "value",
+        "sat": "sat"
+      }
+    ],
+    "CUP": [
+        {
+          "CUP": "CUP"
+        }
+      ],
+    "sat_dzz": [
+      {
+        "sat": "sat",
+        "sat_generation": "sat_generation",
+        "model": "model",
+        "value": "value",
+        "producer": "producer"
+      }
+    ],
+    "sat_telekom": [
+      {
+        "sat": "sat",
+        "sat_generation": "sat_generation",
+        "model": "model",
+        "value": "value",
+        "producer": "producer"
+      }
+    ],
+    "teleskop_sat": [
+      {
+        "sat": "sat",
+        "sat_generation": "sat_generation",
+        "model": "model",
+        "value": "value",
+        "producer": "producer"
+      }
+    ],
+    "YAMAL": [
+      {
+        "sat": "sat",
+        "sat_generation": "sat_generation",
+        "model": "model",
+        "value": "value",
+        "producer": "producer"
+      }
+    ],
+    "GLONASS": [
+      {
+        "sat": "sat",
+        "sat_generation": "sat_generation",
+        "model": "model",
+        "value": "value",
+        "producer": "producer"
+      }
+    ]
+  }

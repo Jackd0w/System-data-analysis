@@ -1,0 +1,80 @@
+[
+    {
+      "value": 150000000,
+      "producer": "RosKosmos",
+      "model": "Yamal",
+      "sat": "Yamal-1",
+      "sat_generetaion": "4"
+    },
+    {
+      "value": 20000000,
+      "producer": "RosKosmos",
+      "model": "Yamal",
+      "sat": "Yamal-4m",
+      "sat_generetaion": "6"
+    },
+    {
+      "value": 16000000,
+      "producer": "RosKosmos",
+      "model": "Glonass",
+      "sat": "Glonass-2",
+      "sat_generetaion": "3"
+    },
+    {
+      "value": 14000000,
+      "producer": "RosKosmos",
+      "model": "Glonass",
+      "sat": "Glonass-3",
+      "sat_generetaion": "4"
+    },
+    {
+      "value": 15000000000,
+      "producer": "NASA",
+      "model": "HUBBLE",
+      "sat": "Hubble",
+      "sat_generetaion": "1"
+    },
+    {
+      "value": 13200000,
+      "producer": "ESA",
+      "model": "Horizon",
+      "sat": "Horizon-12",
+      "sat_generetaion": "3"
+    },
+    {
+      "value": 8000000,
+      "producer": "ESA",
+      "model": "EXO",
+      "sat": "EXO-23",
+      "sat_generetaion": "5"
+    },
+    {
+      "value": 75000000,
+      "producer": "ESA",
+      "model": "Horizon",
+      "sat": "Horizon-15",
+      "sat_generetaion": "3"
+    },
+    {
+      "value": 60000000,
+      "producer": "JAXA",
+      "model": "Hayabusa",
+      "sat": "H-135",
+      "sat_generetaion": "5"
+    },
+    {
+      "value": 55000000,
+      "producer": "ESA",
+      "model": "Horizon",
+      "sat": "Horizon-14",
+      "sat_generetaion": "4"
+    },
+    {
+      "value": 52800000,
+      "producer": "NASA",
+      "model": "Exodus",
+      "sat": "Exodus-1",
+      "sat_generetaion": "4"
+    }
+  ]
+  
